@@ -17,6 +17,13 @@ Total solar consumption is represented as the sum of:
 
 The AIRF approach forecasts the two components separately and then combines them to produce an accounting-coherent forecast of total solar consumption.
 
+
+
+### Confirmatory Forecast Comparison
+
+![Observed total solar consumption compared with Direct SARIMA and AIRF forecasts](figure2_airf_vs_sarima.png)
+
+**Figure 2.** Observed monthly total solar consumption compared with the training-selected Direct SARIMA forecast and the coherent AIRF forecast during the 2024–2025 test period.
 ## Data
 
 The analysis uses 144 monthly observations from January 2014 through December 2025.
